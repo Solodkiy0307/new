@@ -3,3 +3,5 @@ Theme Name: мама тема (дочка от темы unite);
 Template: unite;
 */
 @import url("../unite/style.css");
+
+p {color: red;}
